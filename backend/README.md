@@ -93,7 +93,7 @@ The API will return three types of errors:
 
 ```
 
-### End point
+## End point
 
 #### GET/categories
 
